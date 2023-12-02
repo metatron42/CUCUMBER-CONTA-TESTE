@@ -2,7 +2,8 @@
 
 ![image](https://github.com/metatron42/CUCUMBER-CONTA-TESTE/assets/68714869/1c9a2ede-c9e7-4de0-b40a-5404bde785ce)
 
-##BDD
+
+## BDD
 
 O BDD (Behavior-Driven Development) é uma abordagem que visa descrever as funcionalidades técnicas de um software, simulando o comportamento que um software deve ter. Algumas características-chave do BDD incluem:
 
@@ -16,7 +17,7 @@ Melhoria da Comunicação.
 Ambiente de Teste
 Para implementar o modelo BDD, utilizamos a biblioteca Cucumber. Essa ferramenta permite a criação de testes usando linguagem natural, com o uso de "tags" que podem ser associadas a cenários ou características (features) em suas especificações Gherkin.
 
-##Reprodução de Cenários
+## Reprodução de Cenários
 No arquivo "arquivo_teste.feature", foram criados cenários específicos para realizar os testes necessários dentro do sistema. Além disso, as informações do projeto foram devidamente documentadas.
 
 Este projeto visa não apenas atender aos requisitos acadêmicos, mas também proporcionar uma experiência prática na aplicação dos princípios de BDD para melhorar a qualidade e a eficiência no desenvolvimento de software.
